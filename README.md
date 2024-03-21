@@ -21,5 +21,4 @@ Usage:
 Troubleshooting:
     If you encounter any problems while using this project, please consult the Laravel documentation or create an issue in the GitHub repository.
 
-Credits
-    This project was created by Ajaz Memon and inspired by the OTF Coder Team.
+.
